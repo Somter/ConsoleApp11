@@ -44,7 +44,7 @@ class Team
         }
         EnterButton();
 
-        workers[10].Work(house, index);
+        workers[10].Work(house, index); 
         EnterButton();
 
         workers[9].Work(house, index++);
